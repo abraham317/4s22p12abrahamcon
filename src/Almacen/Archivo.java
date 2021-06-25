@@ -14,10 +14,7 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.util.ArrayList;
 
-/**
- *
- * @author Daliux
- */
+
 public class Archivo {
     
     public void agregarUsuario (Datos datos){
